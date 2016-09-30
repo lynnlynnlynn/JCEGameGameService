@@ -1,0 +1,21 @@
+{
+  "name": "jcegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "description":"JCEGame Node.js Server",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lynn",
+  "dependencies" :
+  {
+    "redis":"0.8.2",
+    "mysql":"2.11.1",
+    "socket.io":"1.4.8",
+    "generic-pool":"1.0.10",
+    "config":"1.21",
+    "log4js":"0.6.38"
+  },
+  "license": "MIT"
+}
